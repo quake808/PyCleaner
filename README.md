@@ -4,6 +4,14 @@
 PyCleaner - безопасный клинер с открытым кодом, 
 созданный на языке Python под систему Windows. 
 
+Библиотеки для работы:
+- os
+- glob
+- pyqt5
+- pyfiglet
+- webrowser
+- importlib
+
 ![screens](https://user-images.githubusercontent.com/35878165/190925400-af59ed8a-bf87-4c5e-9d6a-3fd2043eeb4e.PNG)
 
 Feel free to use it on your way!
